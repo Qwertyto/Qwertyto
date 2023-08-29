@@ -6,4 +6,5 @@
 
 I dont believe I will be capable of making any projects anytime soon. I'm just making this account because I'm starting to use open source software more often and seeing this site all the time.
 -Current operating system: Linux Mint Cinnamon
+-Current coding environment: VsCodium
 
